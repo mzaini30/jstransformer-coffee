@@ -10,12 +10,12 @@
 
 ## Installation
 
-    npm install jstransformer-coffee-script
+    npm install jstransformer-coffee
 
 ## API
 
 ```js
-var coffee-script = require('jstransformer')(require('jstransformer-coffee-script'))
+var coffee-script = require('jstransformer')(require('jstransformer-coffee'))
 
 coffee.render('n = 42', {bare: true}).body
 //=> var n; n = 42;
