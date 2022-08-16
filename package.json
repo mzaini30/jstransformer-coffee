@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-coffee",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Coffee-Script support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstransformers/jstransformer-coffee-script.git"
+    "url": "https://github.com/mzaini30/jstransformer-coffee.git"
   },
   "author": {
     "name": "JSTransformers Team",
